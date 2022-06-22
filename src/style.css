@@ -52,24 +52,6 @@ li::first-letter {
   font-size: 16px;
   top: -34px;
 }
-.sunny {
-  font-size: 60px;
-  text-align: center;
-  color: #7c99ac;
-}
-.partly-cloudy {
-  font-size: 60px;
-  text-align: center;
-  color: #7c99ac;
-}
-.rainy {
-  font-size: 60px;
-  text-align: center;
-  color: #7c99ac;
-}
-.card {
-  background-color: #eaf2f0;
-}
 .weather-temperature .active {
   color: #11324d;
   cursor: default;
@@ -80,7 +62,7 @@ li::first-letter {
 .weather-forecast {
   margin-top: 20px;
   text-align: center;
-  color: black;
+  color: #11324d;
 }
 .weather-forecast-date {
   font-size: 16px;
